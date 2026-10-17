@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="A golf ball on cream paper">
+  <rect width="1200" height="630" fill="#F5F1E6"/>
+  <circle cx="600" cy="315" r="168" fill="#F7F7F4" stroke="#14532D" stroke-width="14"/>
+  <g fill="#C5C5BE">
+    <circle cx="540" cy="250" r="14"/>
+    <circle cx="600" cy="236" r="14"/>
+    <circle cx="660" cy="250" r="14"/>
+    <circle cx="510" cy="310" r="14"/>
+    <circle cx="570" cy="300" r="14"/>
+    <circle cx="630" cy="300" r="14"/>
+    <circle cx="690" cy="310" r="14"/>
+    <circle cx="540" cy="360" r="14"/>
+    <circle cx="600" cy="372" r="14"/>
+    <circle cx="660" cy="360" r="14"/>
+    <circle cx="555" cy="420" r="14"/>
+    <circle cx="645" cy="420" r="14"/>
+  </g>
+</svg>

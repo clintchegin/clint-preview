@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="An espresso cup on cream paper">
   <rect width="1200" height="630" fill="#F6F1E7"/>
-  <rect x="0" y="500" width="1200" height="130" fill="#4A2C1A"/>
-  <path d="M430 230h250v150a80 80 0 0 1-80 80h-90a80 80 0 0 1-80-80V230z" fill="none" stroke="#4A2C1A" stroke-width="26"/>
+  <path d="M430 190h250v170a80 80 0 0 1-80 80h-90a80 80 0 0 1-80-80V190z" fill="none" stroke="#4A2C1A" stroke-width="26"/>
   <path d="M680 268h78a64 64 0 0 1 0 128h-78" fill="none" stroke="#4A2C1A" stroke-width="26"/>
   <path d="M490 150c16 34-14 36 2 72M575 132c16 34-14 36 2 72" fill="none" stroke="#6B3A24" stroke-width="16" stroke-linecap="round"/>
 </svg>
